@@ -1,0 +1,6 @@
+@Ai_FitnessAssistant_HostAddress = http://localhost:5125
+
+GET {{Ai_FitnessAssistant_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
